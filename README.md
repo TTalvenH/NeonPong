@@ -7,7 +7,7 @@ Pong game created with javascript utilising three.js library
 [![Video Thumbnail](https://raw.githubusercontent.com/TTalvenH/project_thumbnails/master/NeonPong.png)](https://youtu.be/bX-DhFDQ6v8)
 
 #### Running the project
-Here are instructions if you want to try the game out yousself.
+Here are instructions if you want to try the game out yourself.
 
 1. Install node.js
 2. in root of the project `npm install`
